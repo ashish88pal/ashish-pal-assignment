@@ -1,18 +1,89 @@
 # vt
 https://fromsmash.com/vt-assignment
-A new
 
 
-mnkjk
-## Getting Started
+# Assignment
+## Tasks
+1. User login page with complete form validation
+2. Registration Page
+3. Implement firebase push notification
 
-This project is a starting point for a Flutter application.
+ Video link is [here](https://youtu.be/NITSqb2wJ5Y)
 
-A few resources to get you started if this is your first Flutter project:
+## Tech stack
+  Flutter, Getx , Firebase Auth, Firebase Cloud Storage, Firebase Messaging
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+Login Screen
+ ![Login Screen](https://github.com/ashish88pal/vt_assignment/blob/d14ef44d5d1456df99a62e6ea823f9ff2887dca3/screenshots/login.png?raw=true)
+Signup Screen
+  ![Signup Screen](https://github.com/ashish88pal/vt_assignment/blob/d14ef44d5d1456df99a62e6ea823f9ff2887dca3/screenshots/signup.png?raw=true)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Home Screen
+  ![Home](https://github.com/ashish88pal/vt_assignment/blob/d14ef44d5d1456df99a62e6ea823f9ff2887dca3/screenshots/home.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Folder Structure of Project
+```bash
+Lib
+|   main.dart
+|   utils.dart
+|
+\---app
+    +---data
+    |       user_model.dart
+    |
+    +---modules
+    |   +---home
+    |   |   +---bindings
+    |   |   |       home_binding.dart
+    |   |   |
+    |   |   +---controllers
+    |   |   |       home_controller.dart
+    |   |   |
+    |   |   \---views
+    |   |           home_view.dart
+    |   |
+    |   +---Login
+    |   |   +---bindings
+    |   |   |       login_binding.dart
+    |   |   |
+    |   |   +---controllers
+    |   |   |       login_controller.dart
+    |   |   |
+    |   |   \---views
+    |   |           login_view.dart
+    |   |
+    |   \---Signup
+    |       +---bindings
+    |       |       signup_binding.dart
+    |       |
+    |       +---controllers
+    |       |       signup_controller.dart
+    |       |
+    |       \---views
+    |               signup_view.dart
+    |
+    +---routes
+    |       app_pages.dart
+    |       app_routes.dart
+    |
+    +---services
+    |       firestore_services.dart
+    |       notification_service.dart
+    |
+    \---widgets
+            custom_buttton.dart
+            custom_snackbar.dart
+```
