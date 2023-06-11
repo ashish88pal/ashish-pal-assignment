@@ -1,0 +1,31 @@
+name: vt
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: '>=3.0.3 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  flutter_animate :
+  firebase_core:
+  firebase_auth: ^4.6.2
+  cloud_firestore: ^4.8.0
+  firebase_messaging: ^14.6.2
+  flutter_local_notifications:
+  dio:
+  loading_animation_widget: ^1.2.0+4
+
+
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+

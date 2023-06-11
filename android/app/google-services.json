@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204935109512",
+    "project_id": "vtassignment-b8ccd",
+    "storage_bucket": "vtassignment-b8ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204935109512:android:69b38cf850124c8040783d",
+        "android_client_info": {
+          "package_name": "com.example.vt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204935109512-ssgv7j437pelsm660c4ueaft0ui83gla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLKrbAt82xB4ZRVdHtMUJZ6A8yA0mBzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204935109512-ssgv7j437pelsm660c4ueaft0ui83gla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
