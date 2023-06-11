@@ -11,12 +11,13 @@
   Flutter, Getx , Firebase Auth, Firebase Cloud Storage, Firebase Messaging
 
 ## Screenshots
-Login Screen
+
+### Login Screen
  ![Login Screen](https://github.com/ashish88pal/vt_assignment/blob/d14ef44d5d1456df99a62e6ea823f9ff2887dca3/screenshots/login.png?raw=true)
-Signup Screen
+### Signup Screen
   ![Signup Screen](https://github.com/ashish88pal/vt_assignment/blob/d14ef44d5d1456df99a62e6ea823f9ff2887dca3/screenshots/signup.png?raw=true)
 
-Home Screen
+### Home Screen
   ![Home](https://github.com/ashish88pal/vt_assignment/blob/d14ef44d5d1456df99a62e6ea823f9ff2887dca3/screenshots/home.png?raw=true)
 
 
