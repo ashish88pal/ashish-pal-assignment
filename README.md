@@ -1,4 +1,4 @@
-# Assignment
+# Ashish Pal--Assignment
 ## Tasks
 1. User login page with complete form validation
 2. Registration Page
@@ -6,6 +6,10 @@
 
  Video link is [here](https://youtu.be/NITSqb2wJ5Y).
  Apk download link is [here](https://fromsmash.com/vt-assignment)
+
+
+## Work Done
+The login and registration functionalities are integrated with Firebase Auth, while Firebase Cloud Storage stores user authentication data and FCM tokens. Firebase Messaging is used for push notification delivery. Additionally, custom snackbars and buttons are included to enhance the user experience with visual and haptic feedback.
 
 ## Tech stack
   Flutter, Getx , Firebase Auth, Firebase Cloud Storage, Firebase Messaging
