@@ -1,14 +1,11 @@
-# vt
-https://fromsmash.com/vt-assignment
-
-
 # Assignment
 ## Tasks
 1. User login page with complete form validation
 2. Registration Page
 3. Implement firebase push notification
 
- Video link is [here](https://youtu.be/NITSqb2wJ5Y)
+ Video link is [here](https://youtu.be/NITSqb2wJ5Y).
+ Apk download link is [here](https://fromsmash.com/vt-assignment)
 
 ## Tech stack
   Flutter, Getx , Firebase Auth, Firebase Cloud Storage, Firebase Messaging
