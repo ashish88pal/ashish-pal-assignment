@@ -10,6 +10,7 @@
 
 ## Work Done
 The login and registration functionalities are integrated with Firebase Auth, while Firebase Cloud Storage stores user authentication data and FCM tokens. Firebase Messaging is used for push notification delivery. Additionally, custom snackbars and buttons are included to enhance the user experience with visual and haptic feedback.
+MVC architecture is used with get cli.
 
 ## Tech stack
   Flutter, Getx , Firebase Auth, Firebase Cloud Storage, Firebase Messaging
@@ -23,6 +24,7 @@ The login and registration functionalities are integrated with Firebase Auth, wh
 
 ### Home Screen
   ![Home](https://github.com/ashish88pal/vt_assignment/blob/d14ef44d5d1456df99a62e6ea823f9ff2887dca3/screenshots/home.png?raw=true)
+
 
 
 
